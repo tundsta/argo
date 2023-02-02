@@ -11,7 +11,7 @@ spec:
   project: default
   source:
     path: apps/
-    repoURL: https://github.com/arthurk/argocd-example-install.git
+    repoURL: https://github.com/tundsta/argo.git
     targetRevision: HEAD
   syncPolicy:
     automated:
